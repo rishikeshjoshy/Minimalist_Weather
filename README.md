@@ -1,23 +1,9 @@
-Minimal Weather App
-
-A simple and robust Flutter weather application that provides real-time weather updates with a clean UI, engaging Lottie animations, and data fetched from the OpenWeather API.
-
-Features
-
-
-
-
-
-Real-Time Weather Data: Fetches current weather information using the OpenWeather API.
-
-
-
-Simple UI: Minimalistic and user-friendly interface for easy navigation.
-
-
-
-Lottie Animations: Smooth and visually appealing animations to represent weather conditions.
-
-
-
-Robust Startup: Efficient app initialization for a seamless user experience.
+🌦️ Minimal Weather App
+A sleek, no-nonsense Flutter weather app that delivers real-time weather updates with a clean UI, smooth Lottie animations, and data straight from the OpenWeather API.
+🔥 Why You'll Love It
+- ☀️ Live Weather Updates – Stay ahead of the forecast with real-time data from OpenWeather.
+- 🎨 Minimalistic UI – Simple, elegant, and easy to navigate, because weather apps should be stress-free.
+- ✨ Lottie Magic – Eye-catching animations bring the forecast to life.
+- 🚀 Snappy Startup – Loads fast, runs smooth—because nobody likes waiting.
+📸 Flow Chart
+![Minimal Weather app](https://github.com/user-attachments/assets/c4965468-2af1-45cb-b468-853c891cbe4c)
